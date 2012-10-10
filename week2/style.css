@@ -73,3 +73,26 @@
 		.blue {
 		 	color:#003399;
 		}
+        
+        
+        
+        everything in R but not in S
+        4,2,3
+        1,2,6
+        
+        everything in s but not in R
+        2,5,4
+        
+        
+        { name: "Smiley",
+  age: 20,
+  phone: "888-123-4567",
+  email: "smiley@xyz.com",
+  happy: true }
+        
+        
+        [ 1, 2, "dog", "cat", true, false, [1, "dog", null],
+  {["pet":"dog"], ["fun":true]} ]
+        
+        
+        
